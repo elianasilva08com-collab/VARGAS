@@ -41,7 +41,7 @@ const Footer: React.FC = () => {
     {
       title: 'Contato',
       contactInfo: [
-        { icon: Phone, text: '(11) 91662-9327' },
+        { icon: Phone, text: '(11) 92203-1170' },
         { icon: Mail, text: 'contato@vargasdisketulhos.com' },
         { icon: MapPin, text: 'Avenida Paraná, 3756 - Barção 1, Cajuru do Sul, Sorocaba - SP, CEP: 18105-001' },
       ],
