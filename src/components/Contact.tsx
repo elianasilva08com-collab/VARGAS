@@ -78,7 +78,7 @@ Número: ${formData.number}
 Aguardo retorno. Obrigado!`;
 
     const encodedMessage = encodeURIComponent(message);
-    const whatsappUrl = `https://api.whatsapp.com/send/?phone=5511922031170&text=${encodedMessage}&type=phone_number&app_absent=0`;
+    const whatsappUrl = `https://api.whatsapp.com/send/?phone=551151927478&text=${encodedMessage}&type=phone_number&app_absent=0`;
     
     window.open(whatsappUrl, '_blank');
   };
@@ -87,7 +87,7 @@ Aguardo retorno. Obrigado!`;
     {
       icon: Phone,
       title: 'Telefones',
-      content: ['(11) 92203-1170'],
+      content: ['(11) 5192-7478'],
     },
     {
       icon: Mail,
